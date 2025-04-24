@@ -1,4 +1,4 @@
-# Spark ML Mini Project from Datacamp
+# Mini Spark ML Projects from Datacamp
 
 This repository contains a small machine learning project built with Apache Spark and PySpark.
 
