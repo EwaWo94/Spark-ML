@@ -2,7 +2,7 @@
 
 This repository contains a small machine learning project built with Apache Spark and PySpark.
 
-The goal of this project — and this repository in general — is to **practice Spark ML techniques** for **educational purposes** only.
+The goal of this project — and this repository in general — is to practice Spark ML techniques.
 
 ## 📁 Repository Structure
 
